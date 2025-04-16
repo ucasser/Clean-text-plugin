@@ -1,0 +1,10 @@
+{
+  "id": "clean-text-plugin",
+  "name": "Clean Text Plugin",
+  "version": "2.2.2",
+  "minAppVersion": "0.12.0",
+  "description": "添加复制并清除按钮，自适应输入输出框大小，增强图形界面交互体验",
+  "author": "Assistant",
+  "authorUrl": "https://chat.openai.com",
+  "main": "main.js"
+}
